@@ -1,0 +1,2 @@
+PyQt6:  PyQt6.QtSql,  PyQt6.QtWidgets, uic
+sys
